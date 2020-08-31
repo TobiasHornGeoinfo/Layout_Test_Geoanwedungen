@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
              // SideActivity.ReturnInputFromSide();
             // SideActivity UserDistanceInstance123 = new SideActivity();
              //Float UserDistance2 = UserDistanceInstance123.ReturnInputFromSide();
+             //TEst
 
              EditText inputStepLength = (EditText) findViewById(R.id.UserDistance1);
              Float UserDistance1 = Float.valueOf(inputStepLength.getText().toString());
